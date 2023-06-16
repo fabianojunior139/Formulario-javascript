@@ -1,3 +1,7 @@
+ <h1 align="center">📃 Formulário com HTML, CSS com Bootstrap e Javascript</h1>
+
+## ❔ Descrição do exercício
+
 Nesse exercício estamos simulando o envio de um formulário.
 Os campos requeridos já estão tratados diretamente no HTML com a propriedade "required" no input e serão testados pelo navegador no momento em que o submit for acionado.
 Porém, algumas ações/modificações precisam ocorrer durante o preenchimento. Utilize JavaScript para que isso aconteça:
@@ -16,3 +20,6 @@ Dicas:
 Bônus:
 * Impeça que espaços em banco façam parte do login.
 * Habilite o checkbox "Eu li e concordo os termos descritos acima" somente após a barra de rolagem chegar ao final do textarea.
+
+## 🖥 Preview
+https://tabela-periodica-two.vercel.app/
