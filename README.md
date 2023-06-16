@@ -2,7 +2,7 @@
 
 <h3 align="center">⚙ Descrição do exercício</h3>
 
-Nos foi passado um formulário criado com HTML e Bootstrap para adicionarmos algumas interações, que são as seguintes:
+Nos foi passado um formulário criado com HTML e Bootstrap para adicionarmos algumas interações utilizando o javascript, que são as seguintes:
 
 - [x] O campo "Login" deve ser gerado automaticamente, em letras minúsculas, conforme o nome e o sobrenome da pessoa, no exato momento em que cada caractere for digitado (Login: nome.sobrenome).
 - [x] Os dados do endereço devem ser preenchidos automaticamente após o usuário informar o seu CEP. Caso o CEP informado seja inválido, o usuário precisa ser avisado (uma DIV com a mensagem de erro já está no HTML com o identificador "cep-erro").
