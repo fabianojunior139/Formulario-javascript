@@ -11,7 +11,7 @@ Bônus:
 * [x] Impeça que espaços em banco façam parte do login.
 * [x] Habilite o checkbox "Eu li e concordo os termos descritos acima" somente após a barra de rolagem chegar ao final do textarea.
 
-<h3 align="center">O arquivo com todo o código criado para resolver os exercícios foi o <a href="https://github.com/fabianojunior139/Formulario-javascript/blob/main/main.js">main.js<a></h3>
+<h4 align="center">O arquivo com todo o código criado para resolver os exercícios foi o <a href="https://github.com/fabianojunior139/Formulario-javascript/blob/main/main.js">main.js<a></h4>
 
 ## 🖥 Preview
 https://formulario-javascript-eight.vercel.app/
