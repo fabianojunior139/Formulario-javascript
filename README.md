@@ -1,6 +1,6 @@
  <h1 align="center">📃 Formulário com HTML, Bootstrap e Javascript</h1>
 
-<h3 align="center">⚙ Descrição do exercício</h3>
+<h3 align="center">Descrição do exercício</h3>
 
 Nos foi passado um formulário criado com HTML e Bootstrap para adicionarmos algumas interações utilizando o javascript, que são as seguintes:
 
